@@ -15,9 +15,9 @@ REGEDIT4
 
 This guide only works for the **S/PDIF** interface and will unlock **Dolby Digital Live** and **DTS Connect**
 
-![image](https://user-images.githubusercontent.com/69399372/154156378-87bf1406-8242-451b-8f20-5415edff27c7.png)
-![image](https://user-images.githubusercontent.com/69399372/154158010-72110b9d-54ad-41b7-9587-832424688e8b.png)
-![image](https://user-images.githubusercontent.com/69399372/154156422-c7e02fb7-72cd-4e69-941b-42233a3abf4f.png)
-![image](https://user-images.githubusercontent.com/69399372/154156457-30987569-a326-4e82-9928-8291708ba45a.png)
-![image](https://user-images.githubusercontent.com/69399372/154156477-bdae5787-24ef-4ed8-8021-a7baa31c128a.png)
-![image](https://user-images.githubusercontent.com/69399372/154156529-f24494ca-c8ef-4ed7-97b5-e63861921f15.png)
+<img src="https://user-images.githubusercontent.com/69399372/154156378-87bf1406-8242-451b-8f20-5415edff27c7.png" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/69399372/154158010-72110b9d-54ad-41b7-9587-832424688e8b.png" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/69399372/154156422-c7e02fb7-72cd-4e69-941b-42233a3abf4f.png" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/69399372/154156457-30987569-a326-4e82-9928-8291708ba45a.png" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/69399372/154156477-bdae5787-24ef-4ed8-8021-a7baa31c128a.png" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/69399372/154156529-f24494ca-c8ef-4ed7-97b5-e63861921f15.png" alt="drawing" width="600"/>
