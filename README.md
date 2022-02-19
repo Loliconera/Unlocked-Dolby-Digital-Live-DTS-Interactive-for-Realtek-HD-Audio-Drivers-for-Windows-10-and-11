@@ -5,7 +5,7 @@
 3. Use [Pihto's patch](https://www.techpowerup.com/forums/attachments/realtek-hd-sound-driver-patch-zip.99391/) to patch the DLL files (the **password** is **''realtek''**). The target filenames are listed on the patcher window. They begin with **"rltkAPO64.dll, rltkAPO.dll"** and may be in "win32" and "win64" subfolders of the Realtek package. You will have to manually select each file to patch and run the patcher multiple times to patch all matching files.
 4. Now run the Realtek setup program. You may be asked to install unsigned drivers. Choose yes.
 5. Do not immediately reboot. Instead, open regedit and ensure the **"DisableProtectedAudioDG"** registry fix is still present. If not, add it again. You need to create it for that, **select right click on the blank => New => DWORD (32 bit) value** and then name it **''DisableProtectedAudioDG''** with hex value **''1''**
-```
+```ini
 REGEDIT4
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Audio]
 "DisableProtectedAudioDG"=dword:00000001
