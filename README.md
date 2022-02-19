@@ -5,11 +5,13 @@
 3. Use [Pihto's patch](https://www.techpowerup.com/forums/attachments/realtek-hd-sound-driver-patch-zip.99391/) to patch the DLL files (the **password** is **''realtek''**). The target filenames are listed on the patcher window. They begin with **"rltkAPO64.dll, rltkAPO.dll"** and may be in "win32" and "win64" subfolders of the Realtek package. You will have to manually select each file to patch and run the patcher multiple times to patch all matching files.
 4. Now run the Realtek setup program. You may be asked to install unsigned drivers. Choose yes.
 5. Do not immediately reboot. Instead, open regedit and ensure the **"DisableProtectedAudioDG"** registry fix is still present. If not, add it again. You need to create it for that, **select right click on the blank => New => DWORD (32 bit) value** and then name it **''DisableProtectedAudioDG''** with hex value **''1''**
-```ini
+```
 REGEDIT4
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Audio]
 "DisableProtectedAudioDG"=dword:00000001
 ```
+<img src="https://user-images.githubusercontent.com/69399372/154792482-039e2ef6-0ac5-449b-8ad7-6ff22f859c68.png" alt="drawing" width="600"/>
+
 6. Reboot, and **Dolby Digital Live/DTS Interactive** should be available.
 7. Working properly on **Windows 11** with Realtek version **R2.80**
 
@@ -21,3 +23,5 @@ This guide only works for the **S/PDIF** interface and will unlock **Dolby Digit
 <img src="https://user-images.githubusercontent.com/69399372/154156457-30987569-a326-4e82-9928-8291708ba45a.png" alt="drawing" width="600"/>
 <img src="https://user-images.githubusercontent.com/69399372/154156477-bdae5787-24ef-4ed8-8021-a7baa31c128a.png" alt="drawing" width="600"/>
 <img src="https://user-images.githubusercontent.com/69399372/154156529-f24494ca-c8ef-4ed7-97b5-e63861921f15.png" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/69399372/154792537-2711ace8-fe95-4ffc-a27a-e88ac5f03a3b.png" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/69399372/154792554-4750fdfe-b843-44a4-acc3-062a1530f11d.png" alt="drawing" width="600"/>
