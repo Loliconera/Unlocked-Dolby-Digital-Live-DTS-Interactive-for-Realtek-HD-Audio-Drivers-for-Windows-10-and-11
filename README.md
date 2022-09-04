@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/RKjWZOh.png" alt="drawing" width="600"/>
 
 3. Download and extract zip file containing original [Realtek HD audio drivers R2.80](https://www.techspot.com/drivers/driver/file/information/18007/) (In my case I use the version **R2.80**).<br>
-<img src="https://i.imgur.com/autTQt9.png" alt="drawing" width="600"/>
+<img src="https://i.imgur.com/uuQeN5Q.png" alt="drawing" width="600"/>
 
 4. Use [Pihto's patch](https://www.techpowerup.com/forums/attachments/realtek-hd-sound-driver-patch-zip.99391/) to patch the DLL files (the password is **''realtek''**). The target filenames are listed on the patcher window. They begin with **"rltkAPO64.dll, rltkAPO.dll"** and may be in "win32" and "win64" subfolders of the Realtek package. You will have to manually select each file to patch and run the patcher multiple times to patch all matching files.<br>
 <img src="https://i.imgur.com/0lfPjpt.png" alt="drawing" width="600"/>
