@@ -10,6 +10,9 @@
 <img src="https://i.imgur.com/uuQeN5Q.png" alt="drawing" width="600"/>
 
 4. Use [Pihto's patch](https://www.techpowerup.com/forums/attachments/realtek-hd-sound-driver-patch-zip.99391/) to patch the DLL files (the password is **''realtek''**). The target filenames are listed on the patcher window. They begin with **"rltkAPO64.dll, rltkAPO.dll"** and may be in "win32" and "win64" subfolders of the Realtek package. You will have to manually select each file to patch and run the patcher multiple times to patch all matching files.<br>
+
+**Nota**: Antivirus may detect patcher.exe as a virus, so you may need to exclude patcher.exe from Antivirus.
+
 <img src="https://i.imgur.com/0lfPjpt.png" alt="drawing" width="600"/>
 
 5. Now run the Realtek setup program. You may be asked to install **unsigned drivers**. Choose **yes**.<br>
