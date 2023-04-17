@@ -49,7 +49,7 @@ REGEDIT4
 <img src="https://user-images.githubusercontent.com/69399372/232382710-438a8e06-c7c5-4c47-b145-b755a77d3cf6.png" alt="drawing" width="600"/>
 <img src="https://user-images.githubusercontent.com/69399372/154156378-87bf1406-8242-451b-8f20-5415edff27c7.png" alt="drawing" width="600"/>
 
-This guide only works for the **S/PDIF** interface and will unlock **Dolby Digital Live** and **DTS Connect**<br>
+10. This guide only works for the **S/PDIF** interface and will unlock **Dolby Digital Live** and **DTS Connect**<br>
 <img src="https://user-images.githubusercontent.com/69399372/232383054-d3468541-f993-4642-8e62-e0a5ebec3d34.png" alt="drawing" width="600"/>
 
 <img src="https://user-images.githubusercontent.com/69399372/154158010-72110b9d-54ad-41b7-9587-832424688e8b.png" alt="drawing" width="600"/>
