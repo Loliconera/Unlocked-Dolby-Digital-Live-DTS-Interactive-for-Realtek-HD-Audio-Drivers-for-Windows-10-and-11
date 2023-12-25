@@ -30,7 +30,7 @@
 <img src="https://user-images.githubusercontent.com/69399372/232381864-f7d076da-dc2e-4a01-9398-238cfc5186c8.jpg" alt="drawing" width="600"/>
 
 6. Now run the Realtek setup program. You may be asked to install **unsigned drivers**. Choose **yes**.<br>
-<img src="https://i.imgur.com/3LRw8ft.png" alt="drawing" width="600"/>
+<img src="https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11/assets/69399372/e6047a66-241d-44e4-952a-f710ea2ca7b9" alt="drawing" width="600"/>
 
 7. Do not immediately reboot. Instead, open regedit and ensure the **"DisableProtectedAudioDG"** registry fix is still present. If not, add it again. You need to create it for that, **select right click on the blank => New => DWORD (32 bit) value** and then name it **''DisableProtectedAudioDG''** with hex value **''1''**<br>
 
@@ -50,17 +50,9 @@ REGEDIT4
 
 10. This guide only works for the **S/PDIF** interface and will unlock **Dolby Digital Live** and **DTS Connect**<br>
 <img src="https://user-images.githubusercontent.com/69399372/232383054-d3468541-f993-4642-8e62-e0a5ebec3d34.png" alt="drawing" width="600"/>
-
 <img src="https://user-images.githubusercontent.com/69399372/154158010-72110b9d-54ad-41b7-9587-832424688e8b.png" alt="drawing" width="600"/>
 <img src="https://user-images.githubusercontent.com/69399372/154156422-c7e02fb7-72cd-4e69-941b-42233a3abf4f.png" alt="drawing" width="600"/>
 <img src="https://user-images.githubusercontent.com/69399372/154156457-30987569-a326-4e82-9928-8291708ba45a.png" alt="drawing" width="600"/>
-<img src="https://i.imgur.com/CfO9OrD.png" alt="drawing" width="600"/>
-<img src="https://i.imgur.com/ZepREz2.png" alt="drawing" width="600"/>
-<img src="https://i.imgur.com/XUVR1nH.png" alt="drawing" width="600"/>
 <img src="https://user-images.githubusercontent.com/69399372/154156477-bdae5787-24ef-4ed8-8021-a7baa31c128a.png" alt="drawing" width="600"/>
-<img src="https://i.imgur.com/f8yQ6vh.png" alt="drawing" width="600"/>
-<img src="https://i.imgur.com/Qop9WrU.png" alt="drawing" width="600"/>
-<img src="https://i.imgur.com/uoWt0OQ.png" alt="drawing" width="600"/>
 <img src="https://user-images.githubusercontent.com/69399372/154792537-2711ace8-fe95-4ffc-a27a-e88ac5f03a3b.png" alt="drawing" width="600"/>
-<img src="https://i.imgur.com/ZhzpphO.png" alt="drawing" width="600"/>
 <img src="https://user-images.githubusercontent.com/69399372/154156529-f24494ca-c8ef-4ed7-97b5-e63861921f15.png" alt="drawing" width="600"/>
