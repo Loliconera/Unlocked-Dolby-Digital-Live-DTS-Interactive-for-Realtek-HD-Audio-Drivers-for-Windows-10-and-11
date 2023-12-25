@@ -1,13 +1,13 @@
 ### Guide to enable Dolby Digital Live and/or DTS Interactive:
 
 1. Uninstall your existing Realtek drivers with [Display Driver Uninstaller (DDU)](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) and reboot.<br>
-<img src="https://i.imgur.com/5jiAmUS.png" alt="drawing" width="600"/>
+<img src="https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11/assets/69399372/1ab5ddda-6b85-4dd7-aa7b-7d18cebf77b3" alt="drawing" width="600"/>
 
 2. You will have to **disable the use of signed drivers** ([How To Disable Driver Signature Enforcement](https://www.youtube.com/watch?v=C9M2l5vp5co), [How to disable mandatory use of signed drivers](https://answers.microsoft.com/es-es/windows/forum/all/windows-10-c%C3%B3mo-deshabilito-el-uso/778da35d-deab-4a99-84fb-02a274bf5fc5))<br>
-<img src="https://i.imgur.com/RKjWZOh.png" alt="drawing" width="600"/>
+<img src="https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11/assets/69399372/749828d7-5fa7-40bd-881f-841bcb987ae2" alt="drawing" width="600"/>
 
 3. **[Option 1]** Download the **0006-Win7_Win8_Win81_Win10_R280.exe** installer and extract the installer content to a folder [Realtek HD audio drivers R2.80](https://www.techspot.com/drivers/driver/file/information/18007/) (Version is recommended **R2.80**).<br>
-<img src="https://i.imgur.com/uuQeN5Q.png" alt="drawing" width="600"/>
+<img src="https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11/assets/69399372/8b9e5712-a7da-4f4f-ac17-db492e96a66e" alt="drawing" width="600"/>
 <img src="https://user-images.githubusercontent.com/69399372/232379499-b0720780-912d-49c0-a0f8-689ba83cdf7f.jpg" alt="drawing" width="600"/>
 <img src="https://user-images.githubusercontent.com/69399372/232379607-77662cf7-6357-4b37-be40-54852424561d.png" alt="drawing" width="600"/>
 
@@ -19,8 +19,7 @@
 5. Use [Pihto's patch](https://www.techpowerup.com/forums/attachments/realtek-hd-sound-driver-patch-zip.99391/) to patch the DLL files (the password is **''realtek''**). The target filenames are listed on the patcher window. They begin with **"rltkAPO64.dll, rltkAPO.dll"** and may be in "win32" and "win64" subfolders of the Realtek package. You will have to manually select each file to patch and run the patcher multiple times to patch all matching files.<br>
 
 **Nota**: Antivirus may detect patcher.exe as a virus, so you may need to exclude patcher.exe from Antivirus.
-
-<img src="https://i.imgur.com/0lfPjpt.png" alt="drawing" width="600"/>
+<img src="https://github.com/Loliconera/Unlocked-Dolby-Digital-Live-DTS-Interactive-for-Realtek-HD-Audio-Drivers-for-Windows-10-and-11/assets/69399372/16ccda6e-aa9c-44ca-8143-6e342839abc6" alt="drawing" width="600"/>
 
 - For **32 bit** versions:  
 
